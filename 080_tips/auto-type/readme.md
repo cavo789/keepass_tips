@@ -10,7 +10,7 @@ How to do this? Just edit your entry, go to the `Auto-Type` tab and override the
 
 > [https://www.youtube.com/watch?v=rB-VqKJGHsg&list=PLBNApfcGv5dqGLi3c0VmVstiore0dB1so&index=3](https://www.youtube.com/watch?v=rB-VqKJGHsg&list=PLBNApfcGv5dqGLi3c0VmVstiore0dB1so&index=3)
 
-When activating the auto-type feature, we can open the application and press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>A</kbd> to ask KeePass to inject the login and the password (this can be configured).
+When activating the auto-type feature, we can open the application and press <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>++<kbd>ALT</kbd>+<kbd>A</kbd> to ask KeePass to inject the login and the password (this can be configured).
 
 The following video is illustrating it: [https://www.youtube.com/watch?v=rB-VqKJGHsg&list=PLBNApfcGv5dqGLi3c0VmVstiore0dB1so&index=3](https://www.youtube.com/watch?v=rB-VqKJGHsg&list=PLBNApfcGv5dqGLi3c0VmVstiore0dB1so&index=3)
 
@@ -20,8 +20,8 @@ This is a very nice extra security measure. Be sure to see the video to correctl
 
 ## Multiple accounts for the same page
 
-If multiple accounts are stored for the same page, by pressing <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>A</kbd> we can ask KeePass to show a dialog with the list of couples and allow us to select the one we wish to use.
+If multiple accounts are stored for the same page, by pressing <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>A</kbd> we can ask KeePass to show a dialog with the list of couples and allow us to select the one we wish to use.
 
 In the `Options` of KeePass, we need to click on the `Advanced` tab then select the `Always show global auto-type entry selection dialog` (in the `Auto-Type` group).
 
-Now, pressing <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>A</kbd> will show the dialog of known credentials.
+Now, pressing <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>A</kbd> will show the dialog of known credentials.
