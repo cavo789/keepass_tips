@@ -10,7 +10,7 @@ The `URL` property of the entry should be: `cmd://"{APPDIR}\KeePass.exe" "{s:DbP
 
 Make sure to specify the password to use.
 
-![Set the URL](images/edit_entry_url.png)
+![Set the URL](./images/edit_entry_url.png)
 
 Then, go in the `Advanced` tab (of the `Edit Entry` dialog), add a new `String fields`, the name has to be `DbPath` and you need to specify the full path of the database (f.i. `%APPDATA%\my_second_db.kdbx`).
 

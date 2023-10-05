@@ -19,6 +19,7 @@ Make sure to always fill in these properties:
 
 Additional useful properties:
 
+* Use `DB` to save their the associated database name (when `type` is a database system like `MySQL` or `PostgreSQL`),
 * Use `path` to store the path to the application f.i. `/var/www/html/public` if this is the entry path of your application and,
 * `port` to expose the port to use for, f.i., your database connection (f.i. `3307` if you don't use the standard MySQL port)
 
